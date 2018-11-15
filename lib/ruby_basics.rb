@@ -1,17 +1,17 @@
 def division(num1, num2)
- division(36, 6)
+ 36/6
 end
 
 def assign_variable(value)
-  assign_variable(Bob)
+  name=value
 
 end
 
-def argue
-
+def argue(given)
+given
 end
 
-def greeting
+def greeting(greeting,name)
 
 end
 
