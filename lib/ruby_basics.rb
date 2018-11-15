@@ -2,8 +2,6 @@ def division(num1, num2)
 
 end
 
-division (36,6)
-
 def assign_variable(value)
 
 end
